@@ -21,7 +21,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
-//This is to try Git branch
+//Mustafa is trying
 public class BrowserUtils {
 	/*
 	 * switches to new window by the exact title
